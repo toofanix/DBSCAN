@@ -6,3 +6,5 @@ Furthermore, points that are not noise are also separated in to different cluste
 
 This code is implementation of the paper:
 Martin Ester, Hans-Peter Kreigel, jorg Sander, Xiaowei Xu, " A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise", Proceedings of 2nd International Conference on Knowledge Discovery and Data Mining, 1996
+
+Please check the Wiki for more information.
